@@ -29,3 +29,11 @@ Ejemplo para la defensa: `cafeu-v3.html?prueba=1`
 
 ## Prototipo anterior (v2, Figma)
 https://www.figma.com/design/TO6AmVVBbCJxYHiHZDvW9U/Untitled?node-id=33-6
+
+## Trazabilidad
+| Elemento | Referencia |
+|---|---|
+| Issue | #2 «APE4 integral · Wireframes y prototipo v3» (responsable: Vladimir González) |
+| Commits de la entrega | `109b8be` wireframes de las 7 pantallas · `0f7ee3e` prototipo v3 final y beta |
+| Pull request | Rama `feature/vladimir-prototipo` → `main`, revisado por Boris Vinces; cierra la issue #2 |
+| Hallazgos que corrige la v3 final | H1 a H5 (ver `../pruebas/hallazgos.md` y `../iteracion/cambios.md`) |
